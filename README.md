@@ -26,6 +26,10 @@
 
 ###
 
+<p align="left">Hello World!!</p>
+
+###
+
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="35" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="57" height="35" alt="discord logo"  />
@@ -40,13 +44,17 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alinerximenes/alinerximenes/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1&custom_title=alinerximenes" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2&custom_title=alinerximenes" height="150" alt="languages graph"  />
+</div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alinerximenes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=alinerximenes" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alinerximenes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2&custom_title=alinerximenes" height="150" alt="languages graph"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alinerximenes/alinerximenes/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alinerximens/alinerximenes/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alinerximenes/alinerximenes/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
