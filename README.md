@@ -4,18 +4,18 @@
 <h3 align="left">Sobre mim</h3>
 <p align="left">Oi, tudo bem?👩🏻‍🦰<br/>
 Me chamo Aline, tenho 18 anos e estou iniciando minha jornada na tecnologia, um desafio que resolvi encarar com dedicação e curiosidade!
-<br/>
+<br/><br/>
 💻 Formação e Aprendizados
-<br/>
+<br/><br/>
 •Cursei o primeiro semestre de 2025 do Proprofissão com foco em desenvolvimento web em Java;
 •Atualmente, estou estudando C# no curso Transforme-se, do Serasa.
-<br/>
+<br/><br/>
 👀 Interesses
-<br/>
+<br/><br/>
 Tenho interesse por React.js, Java, mySQL e C#, mas também tenho curiosidade por Python, UI/UX e engenharia de prompt.
-<br/>
+<br/><br/>
 🚀 Objetivo Profissional
-<br/>
+<br/><br/>
 Busco uma oportunidade que me permita aplicar na prática o que venho aprendendo, quero crescer com experiências reais atuando como desenvolvedora e fazer a diferença com minha criatividade na tecnologia.
 </p>
 
