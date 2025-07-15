@@ -1,8 +1,12 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Olá! Sou a Aline Ximenes!</h2>
+
+###
+<h3 align="left">Sobre mim</h3>
+<p align="left">Hello World!!</p>
 
 ###
 
-<p align="left">Hello World!!</p>
+<h3 align="left">Tecnologias, linguagens e Ferramentas</h3>
 
 ###
 
@@ -26,7 +30,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<h3 align="left">Minhas redes sociais</h3>
 
 ###
 
@@ -48,13 +52,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alinerximenes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=alinerximenes" height="150" width="400" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alinerximenes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2&custom_title=alinerximenes" height="150" width="400" alt="languages graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alinerximenes/alinerximenes/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alinerximens/alinerximenes/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alinerximenes/alinerximenes/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
