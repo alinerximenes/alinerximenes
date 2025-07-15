@@ -7,7 +7,7 @@ Me chamo Aline, tenho 18 anos e estou iniciando minha jornada na tecnologia, um 
 <br/><br/>
 💻 Formação e Aprendizados
 <br/><br/>
-•Cursei o primeiro semestre de 2025 do Proprofissão com foco em desenvolvimento web em Java;
+•Cursei o primeiro semestre de 2025 do Proprofissão com foco em desenvolvimento web em Java;<br/>
 •Atualmente, estou estudando C# no curso Transforme-se, do Serasa.
 <br/><br/>
 👀 Interesses
